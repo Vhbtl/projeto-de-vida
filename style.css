@@ -4,8 +4,8 @@
     --cor-de-fundo:#002fff;
     --botao-inativo: rgba(43, 103, 180, 0.993);
     --botao-ativo :#0d1142;
-    --branco:#000000;
-    --cor-letra: #080505;
+    --branco:#fffbfb;
+    --cor-letra: #fafafa;
     --sublinhado:#000000;
 }
 body{
